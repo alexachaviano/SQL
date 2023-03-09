@@ -5,11 +5,11 @@ CREATE TABLE store (id INTEGER PRIMARY KEY, item TEXT, price INTEGER, brand TEXT
 
 INSERT INTO store VALUES (1, "band tees", 88, "Daydreamer", 50);
 INSERT INTO store VALUES (2, "flare jeans", 62, "Flying Monkey", 90);
-INSERT INTO store VALUES (3, "crop top", 38, "Olivaceous", 30);
+INSERT INTO store VALUES (3, "ruffle top", 38, "Olivaceous", 30);
 INSERT INTO store VALUES (4, "floral romper", 72, "One and Only Collective", 95);
-INSERT INTO store VALUES (5, "strapless ribbed midi dress", 58, "Le Lis", 48);
+INSERT INTO store VALUES (5, "strapless dress", 58, "Le Lis", 48);
 INSERT INTO store VALUES (6, "striped pant set", 88, "Mable", 70);
-INSERT INTO store VALUES (7, "white skort", 32, "Blue Blush", 25);
+INSERT INTO store VALUES (7, "denim skirt", 32, "Blue Blush", 25);
 INSERT INTO store VALUES (8, "tennis skirt", 54, "Z Supply", 50);
 INSERT INTO store VALUES (9, "collared tank top", 58, "Z Supply", 68);
 INSERT INTO store VALUES (10, "lime green mini dress", 62, "Sky To Moon", 55);
